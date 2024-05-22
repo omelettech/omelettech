@@ -12,7 +12,7 @@ I am currently a student at **George Brown College** pursuing an advanced diplom
 ## 🛠️ Skills and Tools
 <div align="center" id="skill-icons">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,java,js,mysql,sqlite,bash,git,dotnet,php,html,css"/>
+    <img src="https://skillicons.dev/icons?i=py,django,react,cs,java,js,mysql,sqlite,bash,git,dotnet,php,html,css"/>
   </a>
 
 </div>
