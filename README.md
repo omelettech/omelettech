@@ -1,7 +1,10 @@
 <h1>Awsaf Fida Mahmud</h1>
 <div id="badges">
+  <a href="https://leetcode.com/omelettech/">Personal Website</a>
+<hr>
 <a href="https://www.linkedin.com/in/awsaf-fida-mahmud-bbb115211/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a href="https://leetcode.com/omelettech/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode Badge"/></a>
+
 </div>
 <hr>
 <h2>About me</h2>
