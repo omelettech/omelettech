@@ -1,5 +1,5 @@
 <h1>Awsaf Fida Mahmud</h1>
-<h3>Future Backend Engineer</h3>
+<h3>A normal guy in his bedroom</h3>
 <div id="badges">
   <a href="https://afmahmud.dev/">Personal Website</a>
 <hr>
@@ -13,8 +13,7 @@
 <hr>
 <h2>👨‍💻 About Me </h2>
 
-- 🔭 I’m currently working on **[Artshell](https://github.com/omelettech/ecomm_backend)**
-- 🌱 I’m learning **Cybersecurity, AWS and linux environment**
+- 🔭 I’m currently working on **[HuskyHack](https://huskyhack.ca)**
 - 💬 Ask me about **REST APIs, System architectures, Full stack Frameworks**
 - 📫 How to reach me: **fidaawsaf@gmail.com**
 
